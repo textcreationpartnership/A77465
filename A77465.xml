@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of the siege of Vienna, and the victory of the Christians against the Turks at Barkan</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77465</idno>
+            <idno type="STC">Wing B4635</idno>
+            <idno type="STC">ESTC R228044</idno>
+            <idno type="EEBO-CITATION">99895261</idno>
+            <idno type="PROQUEST">99895261</idno>
+            <idno type="VID">152571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2305:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of the siege of Vienna, and the victory of the Christians against the Turks at Barkan</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Austro-Turkish War, 1683-1699 --  Early works to 1800.</term>
+               <term>Turkey --  History --  Süleyman II, 1687-1691 --  Early works to 1800.</term>
+               <term>Vienna (Austria) --  History --  Siege, 1683 --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152571:1" rendition="simple:additions"/>
+            <head>
+               <hi>A BRIEF</hi> Relation of the Siege of <hi>VIENNA,</hi> And the Victory of the CHRISTIANS againſt the T<g ref="char:V">Ʋ</g>RKS at BARKAN.</head>
+            <p>THe Turks falling with their formidable Forces like a Torrent into Hungary, the Duke of Lorrain was forced to repaſs the River Raab, and firſt to bring his Army under the Walls of Altenbourg, and afterwards to cauſe his Infantry to paſs one of the Arms of the Danube, and to poſt themſelves in the Iſland Schutz, while his Highneſs remained with his Cavalry on this ſide the River, but he was quickly obliged to retire, upon the advice he had, that the Hungarians, who were appointed to guard the paſſage of the River Raab, had be<g ref="char:EOLhyphen"/>trayed the ſame to the Enemy. His Highneſs marched with all the ſpeed he could, but the Enemy followed him ſo cloſe; that their foremoſt Troops fell upon his Rear; the ſkirmiſh was very hot, and the Imperialiſts ſuffered a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſiderable loſs: but in concluſion the Enemy were forced to retire; In this action the Prince of Savoy was mortally wounded. On the 8th of July the Duke of Lorrain arrived near this place with the Imperial Cavalry; and about nine a clock that night, their Imperial Majeſties, with the Arch-Dukes, and Arch-dutcheſſes parted from hence in great haſte for Lintz. The next day and the following great numbers of people left this place, ſome one way, ſome another; and the confuſion and conſternation we were here in, cannot be expreſt. The Enemy in the mean time advanced into Auſtria, the Tartars making a moſt terrible ravage wherever they came; Our Governor the Count de Staremberg, who arrived here from the Army on the Eighth, being aſſiſted by the Count de Caplieres, in quality of the Emperors Commiſſary General, was not wanting all this while, as well as thetime would permit, to put the place into a poſture of defence, and particularly to plant Paliſadoes on the Counterſcharp. The 11th and 12th the Imperial Infantry making Six Regiments, entred the place, and then our Gariſon, with the Regiment of Staremberg of 1500 Men which was here before conſiſted of 14500 Foot and 1000 horſe, and beſides theſe, we counted between 12 and 15000 Burghers, Students and Servants, capable to bear Arms. The 13th we ſet fire to the Suburbs, in which were above 5000 Houſes, and 15 or 16 ſtately Palaces which were all burnt with their ric<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and coſtly Furniture. The 14th the Imperial Cavalry in E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>even Regi<g ref="char:EOLhyphen"/>ments, Seven Regiments of Dragoons, Three of Croats, and Sixteen Troops of Poliſh Horſe, who the day before had had ſome ſkirmiſhes with the Enemies Vanguard, marched trough this City, and having paſſed the <hi>Danube</hi> over Six or Seven Bridges, marched to Corne-Neubourg; the ſame day, arrived here Four large Boats with Ammunition, and ſeveral Incendiaries, who intended to fire the Magazing, and in effect, had already burnt ſeveral Houſes very nea<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> were diſcovered, and being dragged about the Streets by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> People, were Fleed alive; and the Turks began to inv<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the place. The 15th we were formally beſieged by 150 thou<g ref="char:EOLunhyphen"/>ſand fighting Men; The Grand Viſier taking his Quarters in the Empreſs Dowagers Palace, called La Favorite. The Enemy began that very day to fire upon the place, and o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ned their Trenches the 16th the Enemy fired upon us from Three Batteries, and ſhot a great many Bombs in to the Town; they poſſeſſed themſelves in the night, of Leopolſtadt, and another ſmall Iſle in the <hi>Danube,</hi> by which means they likewiſe ſhut us upon that ſide. This day our Governor re<g ref="char:EOLhyphen"/>ceived a ſmall wound in the Hood with a ſtone, raiſed by a Cannon ſhot. The 17, 18, and 19 were ſpent by the Enemy in advancing their approaches to gain the Counterſcarp; and on our ſide we made ſeveral Sallies to hinder them in their Works, the Cannon playing on both ſides almoſt without in<g ref="char:EOLhyphen"/>termiſſion. In a Sally we made on the 19th we took two or three priſoners, who told us the Turks were above 100000 fighting Men, beſides 20000 which ſtill kept Raab blocked up, under the Command of two Baſſa's. The 20th the Enemy had finiſhed a Battery in Leopolſtadt, from whence they like<g ref="char:EOLhyphen"/>wiſe attacked us with their Cannon and Bombs. The 21 our Governor received letters from the Duke of Lorrain promi<g ref="char:EOLhyphen"/>ſing a ſpeedy Relief. The 23 the Enemy did not make ſo much uſe of their Batteries, as they had hitherto done; but about 7 at night they ſprang a Mine on each ſide of their chief At<g ref="char:EOLhyphen"/>tack, which was againſt the Lebi Ballion, between thoſe of Melcke and the Court, and followed them with three ſeveral Aſſaults in both places, but were ſo bravely received that they did not advance a hands breadth without very great leſs. The 25th they again ſprang a Mine, and ſtormed three times, but were repulſed, though with great loſs on our ſide. The 26th in the Evening we ſprang a Mine, but it had not the effect we deſired. The Enemy ſhot into the Town a Letter, being tied to an Arrow, which our Governor had ſome days before writ to the Duke of Lorrain, and this they accompa<g ref="char:EOLhyphen"/>nied with another Paper, perſwading us to ſave our ſelve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by yielding in time, and not to irritate the Grand Si<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> The 27th the Enemy again attacked the Counterſcar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:152571:2"/>ſame places where they ſprang their Mine the 23 which they renewed four ſeveral times, and were as often beaten off; and thus there did not paſs a day without ſpringing of Mines on their ſide or ours, or without the Enemies making an Aſſault in one place or another. The third of Auguſt about 10 at night, they ſtormed the Counterſcarp before the Ra<g ref="char:EOLhyphen"/>velin of Burgſhor, and after having been repulſed four ſe<g ref="char:EOLhyphen"/>veral times, they lodged themſelves there; that day the Enemy raiſed a Battery againſt the right face of the Burg Baſtioh. The 6th the Enemy ſprang ſeveral Mines, and made a deſcent into the Ditch, which cauſed a great alarm among us. The 7th we made a Sally, and killed a great many of the Enemy. On the 9th they ſprang again a Mine which buried many of our Men; in the Evening we made a Sally and ruined their Works in the Ditch, but with great loſs on our ſide. The 11th, 12th, and 13th, ſeveral Mines were ſprung on both ſides; The Enemy raiſed ſeveral new Batte<g ref="char:EOLhyphen"/>ries, and again lodged themſelves in the Ditch, and we made ſeveral Sallies. The 14th they advanced their Works in the Ditch before the Ravelin; and the night following lodged themſelves on the point of the Ravelin. The 17th we Sallied out with 200 Men, and ruined their Works in the Ditch; and the next day we beat them from the point of the Ravelin; The dayes following we were in continual action with the Enemy, who had now ſecured their Lodgments in the Ditch: And we made ſeveral Retrenchments within the Baſtions; out Gariſon begun to be very much weakened, we had loſt a Colonel, five Lieutenant-Colonels, about 30 Captains, and 38 Lieute<g ref="char:EOLhyphen"/>nants, and many were ſick. The 2 of September the Ene<g ref="char:EOLhyphen"/>my ſprang a Mine-under the Baſtion of Lebl, and blew up the point of it; and thereupon made an Aſſault with great numbers of men, but were repulſed. The 4th they ſprang another Mine, which made a breach in the flank of the ſaid Baſtion, and they endeavoured to lodge themſelves there, but were beaten off. The ſame day we made ſigne from St. <hi>Stephens</hi> Tower of the great diſtreſs we began to be in. The 5th, 6th, and 7th the Enemy made great Efforts to lodge themſelves on the Lebl Baſtion. The 8th we diſcove<g ref="char:EOLhyphen"/>red a great Mine of the Enemies, and took the Powder out of it; and again made ſigns from St. <hi>Stephens</hi> Tower, for our danger began to be very great. The 9th we ſaw great part of the Enemies Troops decamp, and march towards <hi>Kalemberg</hi> and the <hi>Forreſt,</hi> and we underſtood by a Priſo<g ref="char:EOLhyphen"/>ner, that they were in great conſternation upon the advice they had of the approach of the Chriſtian Army; however they continued to attack us with their Connon and Bombs as furiouſly as ever, and went on with their Mines under the Lebl Baſtion. The 10th at night they ſprang a Mine, but without any great effect. The 11th in the afternoon the whole Turkiſh Army marched out of their Camp towards <hi>Kalem<g ref="char:EOLhyphen"/>berg;</hi> but at the ſame time the Enemy not only kept their Trenches, but continued to fire upon us from their Batte<g ref="char:EOLhyphen"/>ries, and to work in their Mines. The 12th they made uſe of their Cannon and Bombs as formerly, and we expected eve<g ref="char:EOLhyphen"/>ry minute they would ſpring their Mines; but about four in the Afternoon, we perceived the Enemy were in great con<g ref="char:EOLhyphen"/>fuſion, and that they began to flee, and that the Mar<g ref="char:EOLhyphen"/>grave of Baden advanced with ſeveral Batallions to our re<g ref="char:EOLhyphen"/>lief; upon which our Governour Sallied out, and fell upon the Turks, who were ſtill in their Trenches, and cut them all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pieces; and about five the Marquiſs de Baden entred the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; the joy of the Inhabitants being equal to the trouble <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>traction they were in before. Our Gariſon was redu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o Men, and the Enemy had made ſo great a breach in the Lebl Baſtion, that we had reaſon to fear we could not have reſiſted their nixt Aſſault: It's impoſſible to diſcribe the Enemies Works, they are incredible, in their Trenches they were covered as well from the weather as our ſhot; nor can we pretend to give you here an account of all remarkable paſſages during this famous Siege, from which it pleaſed the Divine Goodneſs, after Sixty days to deliver us. This inva<g ref="char:EOLhyphen"/>ſion of the Turks has coſt the Lives of 100000 Chriſtians, beſides the great Numbers carried into Captivity, and the deſolation of this once flouriſhing Countrey of Auſtria, is ſo great, that its Ruines cannot be repaired without many Mil<g ref="char:EOLhyphen"/>lions, and many years.</p>
+            <p>The letters from the Imperial Camp near <hi>Gran,</hi> con<g ref="char:EOLhyphen"/>firm the account we gave you in our laſt, brought hither by the Count <hi>de Lamberg,</hi> of the Victory which the Chriſtians obtained againſt the Turk at <hi>Barkan,</hi> whereof they give us the following Relation. On the 9th Inſtant the Imperial and Poliſh Armies advanced in order of Battle, the Imperialiſts having the Vanguard, towards <hi>Barkan,</hi> near which place was encamped a Body of between 13 and 14000 Turks, being the beſt troops of their remaining Army, they, en<g ref="char:EOLhyphen"/>couraged with the advantage they had upon the Poles on the 7th, no ſooner ſaw the Chriſtian Army appear, but advan<g ref="char:EOLhyphen"/>ced with full ſpeed, and moſt hideous Cries, charged the imperialiſts, and endeavoured to break in upon them; the Chriſtians kept themſelves very cloſe and firm, and repul<g ref="char:EOLhyphen"/>ſed the Enemy, who then turned towards the Poles, and made a very fierce charge upon them; The Poles received them likewiſe with great Bravery, and being very well ſe<g ref="char:EOLhyphen"/>conded by the Imperialiſts, made a great ſlaughter of the Enemy; who ſeeing one of their chief Baſſa's ſlain, and an other taken Priſoner, fled towards <hi>Barkan;</hi> the Chriſtians purſued them very cloſe, and fired upon them with their Cannon, which the King and the Duke of <hi>Lorrain</hi> cauſed to advance for that purpoſe. Of the Enemy ſome got over the Bridge <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>, which happily for us broke, others threw themſelves into <hi>Barkan,</hi> ſome were drowned, and others taken Priſoners, ſo that of this whole Body, not above 4000 eſcaped. The Imperial Foot and Dragoons ad<g ref="char:EOLhyphen"/>vanced, and the Regiment of <hi>Caſtelli,</hi> and ſome other com<g ref="char:EOLhyphen"/>manded Troops attacked the Counterſcarp of <hi>Barkan,</hi> be<g ref="char:EOLhyphen"/>ing led on by the Count <hi>de Staremberg,</hi> and took it with their Swords in their hands, and putt all the Turks that were there to the Sword, but gave quarter to 500 Janiſaries that were in the place, and who ſurrendred on diſcretion. The Chri<g ref="char:EOLhyphen"/>ſtians, after having pillaged <hi>Barkan,</hi> ſet fire to it, and as well there as in the Enemies Camp, which covered the ſaid Fort, as likewiſe the City of <hi>Gran,</hi> they had a great deal of Plunder; 20 Pieces of Cannon, with great quantities of Proviſions and Ammunition, and many fine Horſes, with very rich Furniture, were taken; and the Priſoners declare, that after this ſecond defeat, the Chriſtians will not meet with any conſiderable reſiſtance any where, there being a very great conſternation among the Turks. They in <hi>Gran</hi> continued to fire upon the Chriſtian Troops that were in ſight of them, till night, and renewed the ſame the next morning; but their Cannon was but ſmall, and did us little harm. The Chriſtians quite ruined the Bridge of <hi>Gran,</hi> and when thee Letters came away, they were paſſing the <hi>Da<g ref="char:EOLhyphen"/>nube</hi> over a Bridge of Boats (which was brought from <hi>Comor<g ref="char:EOLhyphen"/>ra</hi>) in order to their attacking that place, the principal For<g ref="char:EOLhyphen"/>tifications whereof have it's ſaid been very much damnified by Thunder; and their beſt Cannon, and greateſt part of their Ammunition ſent to the Siege of <hi>Vienna.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
